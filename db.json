@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "id": "STU001",
+      "name": "Aisha Mohammed",
+      "email": "aisha.mohammed@example.com",
+      "department": "Computer Science",
+      "level": "400 Level",
+      "phone": "08031234567",
+      "status": "Active"
+    },
+    {
+      "id": "STU002",
+      "name": "Daniel Okafor",
+      "email": "daniel.okafor@example.com",
+      "department": "Information Technology",
+      "level": "300 Level",
+      "phone": "08039876543",
+      "status": "Active"
+    },
+    {
+      "id": "STU003",
+      "name": "Fatima Bello",
+      "email": "fatima.bello@example.com",
+      "department": "Software Engineering",
+      "level": "200 Level",
+      "phone": "08123456789",
+      "status": "Active"
+    },
+    {
+      "id": "STU004",
+      "name": "Samuel Adeyemi",
+      "email": "samuel.adeyemi@example.com",
+      "department": "Computer Science",
+      "level": "100 Level",
+      "phone": "07011223344",
+      "status": "Inactive"
+    },
+    {
+      "id": "STU005",
+      "name": "Maryam Yusuf",
+      "email": "maryam.yusuf@example.com",
+      "department": "Cyber Security",
+      "level": "400 Level",
+      "phone": "09012345678",
+      "status": "Active"
+    },
+    {
+      "id": "STU006",
+      "name": "Emeka Nwosu",
+      "email": "emeka.nwosu@example.com",
+      "department": "Information Technology",
+      "level": "200 Level",
+      "phone": "08055667788",
+      "status": "Active"
+    }
+  ]
+}
